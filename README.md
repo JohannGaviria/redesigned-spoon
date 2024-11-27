@@ -1,6 +1,6 @@
 # Sistema de Encendido y Apagado Automático con Sensor IR
 
-Este proyecto utiliza un sensor IR para detectar la presencia de un objeto y controla dos LEDs (verde y rojo) utilizando una placa Arduino. El LED verde se enciende cuando no se detecta ningún objeto y el LED rojo se enciende cuando se detecta un objeto. Este código es útil para entender cómo se pueden usar sensores IR en proyectos de Arduino.
+Este proyecto utiliza un sensor IR para detectar la presencia de un objeto y controla dos LEDs (verde y rojo) utilizando una placa Arduino. El LED verde se enciende cuando se detecta un objeto y el LED rojo se enciende cuando no se detecta ningun un objeto.
 
 ---
 
